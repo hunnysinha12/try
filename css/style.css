@@ -1,0 +1,19 @@
+body {
+    background-color: #A8D1D1;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.circular {
+    border-radius: 100%;
+}
+#H{
+    color: #3C2A21;
+}
+#J{
+    color: #434242;
+}
